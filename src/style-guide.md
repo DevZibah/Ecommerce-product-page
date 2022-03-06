@@ -11,22 +11,25 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Light Cyan: hsl(193, 38%, 86%)
-- Neon Green: hsl(150, 100%, 66%)
+- Orange: hsl(26, 100%, 55%)
+- Pale orange: hsl(25, 100%, 94%)
 
 ### Neutral
 
-- Grayish Blue: hsl(217, 19%, 38%)
-- Dark Grayish Blue: hsl(217, 19%, 24%)
-- Dark Blue: hsl(218, 23%, 16%)
+- Very vark blue: hsl(220, 13%, 13%)
+- Dark grayish blue: hsl(219, 9%, 45%)
+- Grayish blue: hsl(220, 14%, 75%)
+- Light grayish blue: hsl(223, 64%, 98%)
+- White: hsl(0, 0%, 100%)
+- Black (with 75% opacity for lightbox background): hsl(0, 0%, 0%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (quote): 28px
+- Font size (paragraph): 16px
 
 ### Font
 
-- Family: [Manrope](https://fonts.google.com/specimen/Manrope)
-- Weights: 800
+- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- Weights: 400, 700
