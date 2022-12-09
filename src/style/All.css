@@ -22,6 +22,7 @@
   box-sizing: border-box;
 }
 body {
+  /* border: 1px solid red; */
   font-size: 28px;
   color: var(--Black);
   background-color: var(--White);
@@ -619,12 +620,19 @@ nav {
   }
 }
 @media (min-width: 1024px) {
+  .product1 {
+    /* border: 1px solid red; */
+    width: 75%;
+    margin-left: 2.8rem;
+    margin-top: -2.5rem;
+  }
   .grid6 {
     border: 1px solid white;
     margin-top: -7rem;
   }
   .slider {
     /* border: 1px solid black; */
+    margin-top: 2rem !important;
     height: 30px;
     padding: 5rem !important;
   }
